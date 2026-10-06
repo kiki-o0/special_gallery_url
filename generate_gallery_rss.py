@@ -15,7 +15,6 @@ def generate_feed():
         print(f"エラー: {url_file} が見つかりません。処理を終了します。")
         return
 
-    # URLリストの読み込み
     print(f"--- {url_file} を読み込み中 ---")
     with open(url_file, "r", encoding="utf-8") as f:
         urls = [line.strip() for line in f if line.strip()]
@@ -26,7 +25,6 @@ def generate_feed():
         
     print(f"合計 {len(urls)} 件のURLを処理します。")
 
-    # RSSフィードのヘッダー部分
     jst = timezone(timedelta(hours=9), 'JST')
     now_str = datetime.now(jst).strftime("%Y-%m-%dT%H:%M:%S+09:00")
     
@@ -41,7 +39,6 @@ def generate_feed():
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
 
-    # 各URLを回して画像を抽出し、RSSの記事（entry）にする
     for index, target_url in enumerate(urls, 1):
         print(f"\n[{index}/{len(urls)}] 処理中: {target_url}")
         
@@ -60,7 +57,6 @@ def generate_feed():
                 src = img.get("data-src") or img.get("src")
                 if src:
                     full_url = urljoin(target_url, src)
-                    # .jpg, .png, .jpeg などの画像を探す
                     if ".jpg" in full_url or ".png" in full_url or ".jpeg" in full_url or "image/" in full_url:
                         if full_url not in image_urls:
                             image_urls.append(full_url)
@@ -71,32 +67,27 @@ def generate_feed():
                 
             print(f"  -> {len(image_urls)} 枚の画像を発見！RSSエントリーを作成します。")
             
-            # 抽出した画像を並べたHTMLを作成
             content_html = ""
             for img_url in image_urls:
-                # 画像間に余白を入れるスタイルをつけて見やすくする
-                content_html += f'<img src="{img_url}" style="max-width:100%; margin-bottom:10px;"><br/>\n'
+                # 画像自体をリンクにし、さらに下部にブラウザで開く用のテキストリンクを追加する
+                content_html += f'<a href="{img_url}" target="_blank"><img src="{img_url}" style="max-width:100%; margin-bottom:5px;"></a><br/>\n'
+                content_html += f'<a href="{img_url}" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>\n'
                 
-            # RSSエントリー（記事）の組み立て
             feed_xml += '  <entry>\n'
             feed_xml += f'    <title>{page_title}</title>\n'
             feed_xml += f'    <link href="{target_url}"/>\n'
             feed_xml += f'    <id>{target_url}</id>\n'
-            # サイトごとの更新日時が取れないので、現在時刻をセット
             feed_xml += f'    <updated>{now_str}</updated>\n'
-            # Feeder上で画像が表示されるようにCDATAでHTMLを埋め込む
             feed_xml += f'    <content type="html"><![CDATA[\n{content_html}    ]]></content>\n'
             feed_xml += '  </entry>\n'
             
         except Exception as e:
             print(f"  -> エラー発生: {target_url} の処理中に問題が起きました: {e}")
             
-        # 連続アクセスでサーバーに負荷をかけないよう待機
         time.sleep(2)
 
     feed_xml += '</feed>\n'
 
-    # RSSファイルの保存
     print("\n--- RSSフィード（XML）を保存中 ---")
     with open(feed_file, "w", encoding="utf-8") as f:
         f.write(feed_xml)

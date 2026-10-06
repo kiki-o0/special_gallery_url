@@ -1,32 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>特設ギャラリー 画像コレクション</title>
-  <updated>2026-10-06T08:53:50+09:00</updated>
+  <updated>2026-10-06T09:24:45+09:00</updated>
   <id>urn:uuid:custom-gallery-feed-id</id>
   <author><name>Gallery Bot</name></author>
   <entry>
     <title>Nogizaka Colors</title>
     <link href="https://www.nogizaka46.com/s/n46/gallery/ngColors_63110?ima=4346"/>
     <id>https://www.nogizaka46.com/s/n46/gallery/ngColors_63110?ima=4346</id>
-    <updated>2026-10-06T08:53:50+09:00</updated>
+    <updated>2026-10-06T09:24:45+09:00</updated>
     <content type="html"><![CDATA[
-<img src="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/c5b/14d60a59ca01778c85a81957d465f.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/47e/2ae12e25521a4751dec7b44580d93.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/073/b320fbe1412631c871a56248946ed.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/b71/7007156811cdf0eaa05787a93f69f.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/ff5/0dbccb84cb3826dc666417bcffa02.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/f28/9bf0305919272a00ccfa857476a00.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/950/97334f3208c4a1bdc9e875753ec34.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/62d/bf526932fc5152703619d362bf5f7.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/f23/6e350bdd89d6a40d672128e3d7b9d.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/5bf/42fa871be3a6133001a11cecae517.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/03f/3fd468d306435f346da7478f1f86c.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/414/c9b42981b18bc2d17f5d621e028a8.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/679/64365a640acf1e91a474284850d30.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/6f9/54c6cc8deae797d0646c150d95786.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/25a/de95e771b0126dcdc0ea88fdf1844.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
-<img src="https://www.nogizaka46.com/images/46/7a2/32ef963100767556b178cfffe4578.jpg" style="max-width:100%; margin-bottom:10px;"><br/>
+<a href="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" target="_blank"><img src="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/c5b/14d60a59ca01778c85a81957d465f.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/c5b/14d60a59ca01778c85a81957d465f.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/c5b/14d60a59ca01778c85a81957d465f.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/47e/2ae12e25521a4751dec7b44580d93.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/47e/2ae12e25521a4751dec7b44580d93.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/47e/2ae12e25521a4751dec7b44580d93.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/073/b320fbe1412631c871a56248946ed.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/073/b320fbe1412631c871a56248946ed.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/073/b320fbe1412631c871a56248946ed.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/b71/7007156811cdf0eaa05787a93f69f.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/b71/7007156811cdf0eaa05787a93f69f.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/b71/7007156811cdf0eaa05787a93f69f.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/ff5/0dbccb84cb3826dc666417bcffa02.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/ff5/0dbccb84cb3826dc666417bcffa02.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/ff5/0dbccb84cb3826dc666417bcffa02.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/f28/9bf0305919272a00ccfa857476a00.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/f28/9bf0305919272a00ccfa857476a00.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/f28/9bf0305919272a00ccfa857476a00.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/950/97334f3208c4a1bdc9e875753ec34.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/950/97334f3208c4a1bdc9e875753ec34.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/950/97334f3208c4a1bdc9e875753ec34.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/62d/bf526932fc5152703619d362bf5f7.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/62d/bf526932fc5152703619d362bf5f7.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/62d/bf526932fc5152703619d362bf5f7.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/f23/6e350bdd89d6a40d672128e3d7b9d.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/f23/6e350bdd89d6a40d672128e3d7b9d.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/f23/6e350bdd89d6a40d672128e3d7b9d.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/5bf/42fa871be3a6133001a11cecae517.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/5bf/42fa871be3a6133001a11cecae517.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/5bf/42fa871be3a6133001a11cecae517.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/03f/3fd468d306435f346da7478f1f86c.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/03f/3fd468d306435f346da7478f1f86c.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/03f/3fd468d306435f346da7478f1f86c.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/414/c9b42981b18bc2d17f5d621e028a8.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/414/c9b42981b18bc2d17f5d621e028a8.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/414/c9b42981b18bc2d17f5d621e028a8.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/679/64365a640acf1e91a474284850d30.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/679/64365a640acf1e91a474284850d30.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/679/64365a640acf1e91a474284850d30.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/6f9/54c6cc8deae797d0646c150d95786.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/6f9/54c6cc8deae797d0646c150d95786.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/6f9/54c6cc8deae797d0646c150d95786.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/25a/de95e771b0126dcdc0ea88fdf1844.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/25a/de95e771b0126dcdc0ea88fdf1844.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/25a/de95e771b0126dcdc0ea88fdf1844.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/7a2/32ef963100767556b178cfffe4578.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/7a2/32ef963100767556b178cfffe4578.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/7a2/32ef963100767556b178cfffe4578.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
     ]]></content>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>特設ギャラリー 画像コレクション</title>
-  <updated>2026-10-06T10:00:37+09:00</updated>
+  <updated>2026-10-06T23:08:12+09:00</updated>
   <id>urn:uuid:custom-gallery-feed-id</id>
   <author><name>Gallery Bot</name></author>
   <entry>
     <title>Nogizaka Colors</title>
     <link href="https://www.nogizaka46.com/s/n46/gallery/ngColors_63110?ima=4346"/>
     <id>https://www.nogizaka46.com/s/n46/gallery/ngColors_63110?ima=4346</id>
-    <updated>2026-10-06T10:00:37+09:00</updated>
+    <updated>2026-10-06T23:08:12+09:00</updated>
     <content type="html"><![CDATA[
 <a href="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" target="_blank"><img src="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" style="max-width:100%; margin-bottom:5px;"></a><br/>
 <a href="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
@@ -50,7 +50,7 @@
     <title>Nogizaka Colors</title>
     <link href="https://www.nogizaka46.com/s/n46/gallery/ngColors_63106?ima=4346"/>
     <id>https://www.nogizaka46.com/s/n46/gallery/ngColors_63106?ima=4346</id>
-    <updated>2026-10-06T10:00:37+09:00</updated>
+    <updated>2026-10-06T23:08:12+09:00</updated>
     <content type="html"><![CDATA[
 <a href="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" target="_blank"><img src="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" style="max-width:100%; margin-bottom:5px;"></a><br/>
 <a href="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
@@ -92,7 +92,7 @@
     <title>超ときめき♡宣伝部 2026年5月20日（水） NEW SINGLE「どりーむじゃんぼ！」発売！</title>
     <link href="https://avex.jp/cho-tokisen/dreamjumbo/"/>
     <id>https://avex.jp/cho-tokisen/dreamjumbo/</id>
-    <updated>2026-10-06T10:00:37+09:00</updated>
+    <updated>2026-10-06T23:08:12+09:00</updated>
     <content type="html"><![CDATA[
 <a href="https://avex.jp/cho-tokisen/dreamjumbo/assets/img/top/img_mainvisual.jpg?1778474969093" target="_blank"><img src="https://avex.jp/cho-tokisen/dreamjumbo/assets/img/top/img_mainvisual.jpg?1778474969093" style="max-width:100%; margin-bottom:5px;"></a><br/>
 <a href="https://avex.jp/cho-tokisen/dreamjumbo/assets/img/top/img_mainvisual.jpg?1778474969093" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
@@ -124,7 +124,7 @@
     <title>超ときめき♡宣伝部 2026年9月30日（水） NEW SINGLE「大盛りハッピー」発売！</title>
     <link href="https://avex.jp/cho-tokisen/omorihappy/"/>
     <id>https://avex.jp/cho-tokisen/omorihappy/</id>
-    <updated>2026-10-06T10:00:37+09:00</updated>
+    <updated>2026-10-06T23:08:12+09:00</updated>
     <content type="html"><![CDATA[
 <a href="https://avex.jp/cho-tokisen/omorihappy/assets/img/top/img_mainvisual.jpg?1789364080526" target="_blank"><img src="https://avex.jp/cho-tokisen/omorihappy/assets/img/top/img_mainvisual.jpg?1789364080526" style="max-width:100%; margin-bottom:5px;"></a><br/>
 <a href="https://avex.jp/cho-tokisen/omorihappy/assets/img/top/img_mainvisual.jpg?1789364080526" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
@@ -150,6 +150,48 @@
 <a href="https://avex.jp/cho-tokisen/omorihappy/assets/img/top/img_special_02.jpg?1789364080526" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
 <a href="https://avex.jp/cho-tokisen/omorihappy/assets/img/common/icon_sns_instagram.png?1789364080526" target="_blank"><img src="https://avex.jp/cho-tokisen/omorihappy/assets/img/common/icon_sns_instagram.png?1789364080526" style="max-width:100%; margin-bottom:5px;"></a><br/>
 <a href="https://avex.jp/cho-tokisen/omorihappy/assets/img/common/icon_sns_instagram.png?1789364080526" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+    ]]></content>
+  </entry>
+  <entry>
+    <title>Nogizaka Colors</title>
+    <link href="https://www.nogizaka46.com/s/n46/gallery/ngColors_63103?ima=0623"/>
+    <id>https://www.nogizaka46.com/s/n46/gallery/ngColors_63103?ima=0623</id>
+    <updated>2026-10-06T23:08:12+09:00</updated>
+    <content type="html"><![CDATA[
+<a href="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" target="_blank"><img src="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/f9d/2568f8dda8f94abc551b29937239d.png" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/1cd/e213a867808158e1cb9084d5664fc.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/1cd/e213a867808158e1cb9084d5664fc.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/1cd/e213a867808158e1cb9084d5664fc.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/f3a/ffa69b71d39be81d33f7f6568fb2e.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/f3a/ffa69b71d39be81d33f7f6568fb2e.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/f3a/ffa69b71d39be81d33f7f6568fb2e.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/c96/5f884ccb74aaa43a1d80903f276f7.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/c96/5f884ccb74aaa43a1d80903f276f7.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/c96/5f884ccb74aaa43a1d80903f276f7.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/ae8/13c273affd4f3158be06c573d1756.png" target="_blank"><img src="https://www.nogizaka46.com/images/46/ae8/13c273affd4f3158be06c573d1756.png" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/ae8/13c273affd4f3158be06c573d1756.png" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/e42/7417f950831646340c3b55d872b67.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/e42/7417f950831646340c3b55d872b67.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/e42/7417f950831646340c3b55d872b67.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/6f8/8983b40cb1eec76b87f779b2ec6ef.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/6f8/8983b40cb1eec76b87f779b2ec6ef.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/6f8/8983b40cb1eec76b87f779b2ec6ef.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/43d/e72c7138f47e9446ca0e357a97922.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/43d/e72c7138f47e9446ca0e357a97922.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/43d/e72c7138f47e9446ca0e357a97922.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/c9e/5dfc06804e2f3f5ee891ec396cc96.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/c9e/5dfc06804e2f3f5ee891ec396cc96.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/c9e/5dfc06804e2f3f5ee891ec396cc96.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/ae4/b878617cf46558b66b864eaa64d7d.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/ae4/b878617cf46558b66b864eaa64d7d.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/ae4/b878617cf46558b66b864eaa64d7d.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/97a/090ed0e474e4f546b341babd4abfd.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/97a/090ed0e474e4f546b341babd4abfd.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/97a/090ed0e474e4f546b341babd4abfd.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/612/73462ea79e027b1ae0964494f9dad.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/612/73462ea79e027b1ae0964494f9dad.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/612/73462ea79e027b1ae0964494f9dad.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/0e7/36cc6ef8d8f0a9762f8ee798cf3c7.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/0e7/36cc6ef8d8f0a9762f8ee798cf3c7.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/0e7/36cc6ef8d8f0a9762f8ee798cf3c7.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/202/8c7d1fa67e9096532dd0b46a291c0.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/202/8c7d1fa67e9096532dd0b46a291c0.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/202/8c7d1fa67e9096532dd0b46a291c0.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/cfd/10d6c17b64e196f82a480319dec72.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/cfd/10d6c17b64e196f82a480319dec72.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/cfd/10d6c17b64e196f82a480319dec72.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/261/f3f158eca0c26108547610026e64a.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/261/f3f158eca0c26108547610026e64a.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/261/f3f158eca0c26108547610026e64a.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
+<a href="https://www.nogizaka46.com/images/46/e68/cda7fb2b133afc367f8a68fbf5791.jpg" target="_blank"><img src="https://www.nogizaka46.com/images/46/e68/cda7fb2b133afc367f8a68fbf5791.jpg" style="max-width:100%; margin-bottom:5px;"></a><br/>
+<a href="https://www.nogizaka46.com/images/46/e68/cda7fb2b133afc367f8a68fbf5791.jpg" target="_blank" style="display:inline-block; margin-bottom:20px; font-size:14px; color:#0066cc; text-decoration:underline;">📥 原画をブラウザで開いて保存する</a><br/>
     ]]></content>
   </entry>
 </feed>

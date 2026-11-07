@@ -1,0 +1,49 @@
+name: Add URL from Issue
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+jobs:
+  add-url:
+    if: github.actor == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Add URL to urls.txt
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          touch urls.txt
+          if [ -s urls.txt ] && [ -n "$(tail -c1 urls.txt)" ]; then echo >> urls.txt; fi
+          printf '%s\n%s\n' "$ISSUE_TITLE" "$ISSUE_BODY" | grep -oE 'https?://[^[:space:]]+' | while read -r u; do
+            if ! grep -qxF "$u" urls.txt; then
+              echo "$u" >> urls.txt
+              echo "追加: $u"
+            fi
+          done
+
+      - name: Commit and push urls.txt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add urls.txt
+          git diff --cached --quiet || (git commit -m "Add URL from issue #${{ github.event.issue.number }}" && git pull --rebase && git push)
+
+      - name: Run RSS generation workflow
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run "Generate Gallery RSS Feed" --repo ${{ github.repository }}
+
+      - name: Close issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}
